@@ -1,1 +1,2 @@
 Learning Git fetch and pull.
+Now Learning Git push.
